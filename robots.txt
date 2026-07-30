@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mangwon-hyperpublic-note.shirts-mapo-star.xyz/sitemap.xml
+Sitemap: https://mangwon-hyperpublic-note.shirts-mapo-star.xyz/sitemap-pages.xml
